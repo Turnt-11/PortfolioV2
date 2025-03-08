@@ -493,32 +493,30 @@ export default function Portfolio() {
             <h2 className="text-3xl font-bold text-cyan-300 mb-8">About Me</h2>
             <div className="text-purple-200/90 space-y-4">
               <p>
-                I am a results-driven Full Stack Software Developer with expertise in React.js, Express.js, MongoDB, and cloud-native technologies. My journey in web development began in 2012 with static HTML, CSS, and JavaScript, gradually evolving into dynamic applications using jQuery, Bootstrap, and PHP/MySQL for CMS development. Over the years, I have built secure, high-performance, and scalable web applications, emphasizing DevOps practices, automation, and AI-driven development.
+                I am a passionate Full Stack Developer with experience in React.js, Express.js, MongoDB, and cloud-native technologies. My journey began in 2012 with static HTML, CSS, and JavaScript, gradually expanding into dynamic applications using jQuery, Bootstrap, and PHP/MySQL for CMS development. Over time, I have worked on building secure and scalable applications while incorporating DevOps practices and automation.
               </p>
               <p>
-                I specialize in designing and developing full-stack applications that seamlessly integrate front-end frameworks like React.js with backend services powered by Node.js, Express.js, and MongoDB. Additionally, I have experience working with C# and ASP.NET, contributing to projects such as visitor and contractor check-in systems utilizing badge-scanning functionality. My background includes esports CMS development, sensor data integration, and leveraging APIs and microservices to enhance user interaction and system efficiency.
-              </p>
-              <p>
-                Beyond software development, I am continuously expanding my expertise in DevOps and cybersecurity. I have earned multiple certifications, including:
+                I specialize in developing full-stack applications that integrate front-end frameworks like React.js with backend services powered by Node.js, Express.js, and MongoDB. My professional experience includes developing custom content management systems, interactive web applications, and data-driven solutions for various industries.
               </p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>
                   <strong>Front-End Development Certificate</strong> – Proficient in HTML, CSS, JavaScript, UI/UX best practices, GitHub version control, React.js, RESTful APIs, testing, debugging, and deploying applications.
                 </li>
                 <li>
-                  <strong>Web Development Fundamentals Course</strong> – Solid foundation in responsive design, JavaScript interactivity, and Ajax for dynamic data handling.
+                  <strong>Web Development Fundamentals Course</strong> – Strong foundation in responsive design, JavaScript interactivity, and Ajax for dynamic data handling.
                 </li>
                 <li>
                   <strong>DevOps Practitioner Certificate</strong> – Hands-on experience with Agile, Scrum, Python, shell scripting, microservices, Docker, Kubernetes, OpenShift, CI/CD, and cloud-native technologies.
                 </li>
                 <li>
-                  <strong>Advanced DevOps Certificate</strong> – In-depth knowledge of TDD, CI/CD pipelines (GitHub Actions, Tekton), monitoring, logging, observability, and security best practices.
+                  <strong>Advanced DevOps Certificate</strong> – Knowledge of TDD, CI/CD pipelines (GitHub Actions, Tekton), monitoring, logging, observability, and security best practices.
                 </li>
               </ul>
               <p>
-                I am also strengthening my expertise in cybersecurity and web penetration testing to become a more well-rounded full-stack developer. This includes mastering security best practices, vulnerability assessment, ethical hacking techniques, and implementing robust security measures in web applications. By understanding potential threats and developing proactive defense strategies, I build more secure, resilient, and attack-resistant applications from the ground up.
+                I am also expanding my skills in cybersecurity and web penetration testing to build more secure and resilient applications. By learning security best practices, vulnerability assessment, and ethical hacking techniques, I aim to create robust, attack-resistant web applications.
               </p>
             </div>
+
           </motion.div>
         );
       case 'Websites':
